@@ -188,6 +188,18 @@ border-radius: 36px;
 background-color: #ff99bb;
 }
 
+section a h2:hover{
+    border: 5px double darkred;
+    color: white;
+display: inline-block;
+padding: 15px 15px;
+  background-color: #555;
+  text-decoration: underline;
+  padding: 3px;
+  position: relative;
+  top: -4px;
+}
+
 .p2 {
 color:  #ff99bb;
 align: center;
