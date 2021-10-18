@@ -3,7 +3,7 @@ body{
   align: center;
     display: block;
     overflow-x: scroll;
-width: 1100px;
+width: 1250px;
 height: auto;
 }
 
@@ -12,7 +12,7 @@ height: auto;
  grid-template-columns: auto auto auto;
   grid-template-rows: 80% auto;
   grid-gap: 10px;
-  padding: 10px;
+  padding: 30px;
    background-image: url(../images/space2.jpg);
     text-align: center;
     color:  #ff99bb;
@@ -232,6 +232,32 @@ height: 100%;
 
 p {
 color: #f2d9e6;
+
+}
+
+
+
+
+.container1 {
+  display: grid;
+ grid-template-columns: auto;
+  grid-template-rows: auto auto auto auto auto auto;
+  grid-gap: 10px;
+  padding: 30px;
+   background-image: url(../images/space2.jpg);
+    text-align: center;
+    color:  #ff99bb;
+
+
+
+}
+
+.container1 > div {
+  background-color:  black;
+  text-align: center;
+  padding: 5px 5px;
+  font-size: 22px;
+  opacity: 0.89;
 
 }
 
