@@ -4,7 +4,7 @@ body{
     display: block;
     overflow-x: scroll;
 width: 1650px;
-height: 2000px;
+height: auto;
 }
 
 .container1 {
