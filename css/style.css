@@ -189,11 +189,11 @@ background-color: #ff99bb;
 }
 
 section a h2:hover{
-    border: 5px double darkred;
-    color: white;
+    border: 5px double #ff99bb;
+    color: #ff99bb;
 display: inline-block;
 padding: 15px 15px;
-  background-color: #555;
+  background-color: darkred;
   text-decoration: underline;
   padding: 3px;
   position: relative;
