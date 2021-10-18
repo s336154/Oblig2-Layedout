@@ -3,16 +3,54 @@ body{
   align: center;
     display: block;
     overflow-x: scroll;
+width: 1850px;
+height: 2000px;
+}
+
+.container1 {
+  display: grid;
+ grid-template-columns: 50% 50%;
+  grid-template-rows: 80% auto;
+  grid-gap: 10px;
+  padding: 30px;
+   background-image: url(../images/space2.jpg);
+    text-align: center;
+    color:  #ff99bb;
+
+
+
+}
+
+.container1 > div {
+  background-color:  black;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 22px;
+  opacity: 0.89;
+
+}
+
+img {
 width: 100%;
 height: 100%;
+
 }
+
+
+img.align-left {
+ float: left;
+margin-right: 10px;
+}
+
+/*
+
 img{
     max-width: 90%;
     margin-left: auto;
     margin-right: auto;
     display: block;
     border-radius: 5px;
-}
+} */
 
 ul{
     text-align: center;
@@ -23,8 +61,8 @@ ul{
 .row1{
     display: inline-table;
     position:inherit;
-    width: 23%;
-    height: 300px;
+    width: 80%;
+    height: 80%;
     padding: 5px;
     border: 5px solid white;
     background-color: black;
@@ -41,9 +79,6 @@ figcaption{
   width: 60%;
   color: white;
   font-family:"Papyrus", "Copperplate", fantasy;
-}
-.container1{
-    width:100%;
 }
 
 a:link {
@@ -316,8 +351,8 @@ nav {
 
 .container1 {
   display: grid;
- grid-template-columns: 33.33% 33.33% 33.33% ;
-  grid-template-rows: 45% auto;
+ grid-template-columns: 50% 50%;
+  grid-template-rows: 80% auto;
   grid-gap: 10px;
   padding: 30px;
    background-image: url(../images/space2.jpg);
@@ -343,19 +378,16 @@ height: 100%;
 
 }
 
-p {
-color: #f2d9e6;
-
-}
-
-
-
-
-
 
 img.align-left {
  float: left;
 margin-right: 10px;
+}
+
+
+p {
+color: #f2d9e6;
+
 }
 
 section {
