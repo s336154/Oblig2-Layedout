@@ -1,6 +1,11 @@
+* {
+    
+   text-align: center;
+    
+}
+
 body{
     background-image: url(../images/space.jfif);
-  align: center;
     display: block;
     overflow-x: scroll;
 width: 1250px;
@@ -44,9 +49,6 @@ ul{
 }
 .row1{
     display: inline-table;
-    position:inherit;
-    width: 80%;
-    height: 80%;
     padding: 5px;
     border: 2px solid grey;
     background-color: black;
