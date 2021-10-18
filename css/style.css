@@ -3,7 +3,7 @@ body{
   align: center;
     display: block;
     overflow-x: scroll;
-width: 1250px;
+width: 1100px;
 height: auto;
 }
 
@@ -12,7 +12,7 @@ height: auto;
  grid-template-columns: auto auto auto;
   grid-template-rows: 80% auto;
   grid-gap: 10px;
-  padding: 30px;
+  padding: 10px;
    background-image: url(../images/space2.jpg);
     text-align: center;
     color:  #ff99bb;
