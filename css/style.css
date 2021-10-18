@@ -3,13 +3,13 @@ body{
   align: center;
     display: block;
     overflow-x: scroll;
-width: 1250px;
-height: auto;
+width: 1850px;
+height: 2000px;
 }
 
 .container1 {
   display: grid;
- grid-template-columns:auto auto auto;
+ grid-template-columns: auto auto auto;
   grid-template-rows: 80% auto;
   grid-gap: 10px;
   padding: 30px;
@@ -26,7 +26,7 @@ height: auto;
   text-align: center;
   padding: 15px 0;
   font-size: 22px;
-  opacity: 0.85;
+  opacity: 0.89;
 
 }
 
@@ -246,131 +246,6 @@ height: 100%;
 
 
 
-header > h1 {
-
-margin: 0px 0px;
-padding: 2px 5px;
-font-weight: bold;
- font-stretch: extended;
-  font-size: 48px;
-/*  text-transform: uppercase; */
-   word-spacing: 0.3em;
-  letter-spacing: 3px;
- color: #c6538c;
-  font-family: "Papyrus", "Copperplate", fantasy;
- background-image: url(../images/space2.jpg);
-  opacity: 0.89;
-  text-align: center;
-
-}
-
-.box{
-height: 100px;
-width: 50% 50%;
-flex-grow: 1;
-}
-
-nav{
-background-color: black;
-}
-
-nav ul{
-  list-style-type: none;
-  padding: 0;
-    display: flex;
-}
-
-nav a{
-  text-decoration: none;
-  text-align: center;
-  color: #f2d9e6;
-  display: block;
-  padding: 10px;
-  opacity: 0.8;
-  color: white;
-  font-weight: bold;
-  font-size: 30px;
-}
-
-nav a:hover{
-  background-color: #555;
-  text-decoration: underline;
-  padding: 3px;
-  position: relative;
-  top: -4px;
-}
-
-
-
-
-
-ul {
-width: 100%;
-}
-
-
-
-
-footer {
-color: white;
-font-size: 30px;
-font-weight: bold;
-  font-size: 18px;
-   background-image: url(../images/space.jfif);
-   background-repeat: repeat-x;
-   text-align: center;
-    word-spacing: 0.3em;
-     letter-spacing: 5px;
-    color: #c6538c;
-    padding: 20px 20px;
-}
-
-.p2 {
-color:  #ff99bb;
-align: center;
- background-image: url(../images/space2.jpg);
-  opacity: 0.89;
-  text-align: center;
-}
-
-.about, .about div, .about h2 {
-color: #f2d9e6;
-font-size: 20px;
-text-align: center;
-font-weight: bold;
- letter-spacing: 10px;
- background-color: black;
- z-index: 1;
-
-}
-
-nav {
- background-image: url(../images/space.jfif);
- background-repeat: repeat-x;
-}
-
-.container1 {
-  display: grid;
- grid-template-columns: 50% 50%;
-  grid-template-rows: 80% auto;
-  grid-gap: 10px;
-  padding: 30px;
-   background-image: url(../images/space2.jpg);
-    text-align: center;
-    color:  #ff99bb;
-
-
-
-}
-
-.container1 > div {
-  background-color:  black;
-  text-align: center;
-  padding: 15px 0;
-  font-size: 22px;
-  opacity: 0.89;
-
-}
 
 img {
 width: 100%;
@@ -388,24 +263,6 @@ margin-right: 10px;
 p {
 color: #f2d9e6;
 
-}
-
-section {
-text-align: center;
-background-color: black;
-opacity: 0.7;
-
-}
-
-section a h2 {
-
-font-weight: bold;
-color: darkred;
-border: 3px solid gray;
-display: inline-block;
-padding: 15px 15px;
-border-radius: 36px;
-background-color: #ff99bb;
 }
 
 
