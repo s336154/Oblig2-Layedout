@@ -36,22 +36,6 @@ height: 100%;
 
 }
 
-
-img.align-left {
- float: left;
-margin-right: 10px;
-}
-
-/*
-
-img{
-    max-width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    border-radius: 5px;
-} */
-
 ul{
     text-align: center;
     word-spacing: 100px;
@@ -64,7 +48,7 @@ ul{
     width: 80%;
     height: 80%;
     padding: 5px;
-    border: 5px solid white;
+    border: 2px double grey;
     background-color: black;
     border-radius: 5px;
  }
@@ -239,39 +223,16 @@ font-weight: medium;
 
 body {
 height: 100%;
- background-image: url(../images/space.jfif);
     width: 100%;
 }
 
 
 
 
-
-img {
-width: 100%;
-height: 100%;
-
-}
-
-
-img.align-left {
- float: left;
-margin-right: 10px;
-}
-
-
 p {
 color: #f2d9e6;
 
 }
-
-
-
-
-
-
-
-
 
 
 }
