@@ -9,7 +9,7 @@ height: auto;
 
 .container1 {
   display: grid;
- grid-template-columns: 50% 50%;
+ grid-template-columns:auto auto auto;
   grid-template-rows: 80% auto;
   grid-gap: 10px;
   padding: 30px;
