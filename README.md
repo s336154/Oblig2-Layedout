@@ -7,4 +7,4 @@ GitHub repository:https://github.com/s336154/Oblig2-Layedout </br></br>
 
 GitHub Page: https://s336154.github.io/Oblig2-Layedout/</br></br>
 
-Comments: We worked on this projects matually
+Comments: We worked on this project matually ..
