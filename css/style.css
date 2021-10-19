@@ -84,30 +84,6 @@ a:link {
     margin-right: auto;
     display: block;
   }
- p{
-
-     color: white;
-    font-family:"Papyrus", "Copperplate", fantasy;
-    font-size: 22px;
- }
-
-
-header > h1 {
-
-margin: 0px 0px;
-padding: 2px 5px;
-font-weight: bold;
- font-stretch: extended;
-  font-size: 48px;
-   word-spacing: 0.3em;
-  letter-spacing: 3px;
- color: #c6538c;
-  font-family: "Papyrus", "Copperplate", fantasy;
- background-image: url(../images/space2.jpg);
-  opacity: 0.89;
-  text-align: center;
-
-}
 
 .box{
 height: 100px;
@@ -243,12 +219,6 @@ height: 100%;
 }
 
 
-
-
-p {
-color: #f2d9e6;
-
-}
 
 
 
