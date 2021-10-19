@@ -12,6 +12,31 @@ width: 1250px;
 height: auto;
 }
 
+ p{
+
+     color: white;
+    font-family:"Papyrus", "Copperplate", fantasy;
+    font-size: 22px;
+ }
+
+
+header > h1 {
+
+margin: 0px 0px;
+padding: 2px 5px;
+font-weight: bold;
+ font-stretch: extended;
+  font-size: 48px;
+   word-spacing: 0.3em;
+  letter-spacing: 3px;
+ color: #c6538c;
+  font-family: "Papyrus", "Copperplate", fantasy;
+ background-image: url(../images/space2.jpg);
+  opacity: 0.89;
+  text-align: center;
+
+}
+
 .container1 {
   display: grid;
  grid-template-columns: auto auto auto;
@@ -236,7 +261,35 @@ height: 100%;
 
 
 }
+    
+    
 
+
+     p{
+
+  color: #f2d9e6;
+    font-size: 18px;
+    font-family:"Copperplate", "Papyrus" fantasy;
+ 
+ }
+
+
+header > h1 {
+
+margin: 0px 0px;
+padding: 2px 5px;
+font-weight: bold;
+ font-stretch: extended;
+   word-spacing: 0.1em;
+  letter-spacing: 2px;
+ color: #c6538c;
+    font-size: 38px;
+    font-family:"Copperplate", "Papyrus" fantasy;
+ background-image: url(../images/space2.jpg);
+  opacity: 0.80;
+  text-align: center;
+
+}
 .container1 > div {
   background-color:  black;
   text-align: center;
